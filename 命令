@@ -1,0 +1,11 @@
+在本机上开启一个Web服务器：pipenv run python manage.py runserver
+建立一个应用：pipenv run python manage.py startapp 应用名
+进入 Python 命令交互栏:pipenv run python manage.py shell
+
+
+
+上传本地文件到centos中：scp -r 文件名 用户名@ip地址:指定路径（https://www.cnblogs.com/magicc/p/6490566.html）
+
+
+
+https://github.com/wuyan-0416/Django-blog-tutorial.git
